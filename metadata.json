@@ -1,0 +1,6 @@
+{
+  "name": "Sổ Tay Thi Đua Lớp 6B1 - Smart Emulation",
+  "description": "Hệ thống quản lý nề nếp thi đua thông minh dành cho lớp 6B1: chấm điểm cờ đỏ, bảng xếp hạng tổ và cá nhân, theo dõi vi phạm và báo cáo sinh hoạt lớp đồng bộ Google Sheets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
